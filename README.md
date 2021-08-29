@@ -50,9 +50,9 @@ The following is a screenshot of the Book/Cinema Library application following a
 
 ## Setup/Installation Requirements
 
-Direct link to repository:  https://github.com/jtoth7824/group_project1
+Direct link to repository:  https://github.com/wleivax/group_project1
 
-Direct link to Book/Cinema Library webpage:  https://jtoth7824.github.io/group_project1/
+Direct link to Book/Cinema Library webpage:  https://wleivax.github.io/group_project1/
 
 ## Support and contact details
 
